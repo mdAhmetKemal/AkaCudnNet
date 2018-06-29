@@ -12,15 +12,21 @@ getirip insanlarla paylaşmak.
 Bu sebeple kaynak kodları veremeyeceğim.
   
   Uygulama test ve train dataseti olarak Mnist,cifar10,cifar100  dataları ile çalışabilecek şekilde 
-  geliştirildi.
+geliştirildi.
+  
 Içerik olarak Convolution2d ,poolMax,poolAvg,batchNormalization,FullyConnect,Dropuot,Add,
 Concantrate,Activation(relu,tanh,sigm,crelu,elu),Direct  bağlantılarına sahip.
 Adı geçen bağlantı tiplerinden bağzılarını prototxt.ini dosyası içerinde açıklamaları göreceksiniz.
+
   Yazılım sadece Nvidia Ekran Kartlarında çalışıyor (compute capability 3.5 ve üzeri)
 Yükleme için linkte verdiğim DLL dosyalarını yazılımın olduğu klasöre kopyalamanız yeterli
 (Cuda ,cublas ,cudnnni ayrıca sisteme yüklemenize gerek yok )
+
 Ayrıca prototxt.ini dosyası içerisinde geçen datasetleri de linkte verdim.
 Aynı klasöre koyarak test yapabilirsiniz.
+
 Dll dosyaları https://yadi.sk/d/EZhfYrwt3Ybks4
+
 Dataset dosyaları https://yadi.sk/d/RvTJRN_y3Ybnfh
+
 ![alt text](https://github.com/mdAhmetKemal/AkaCudnNet/blob/master/setup.jpg) 
