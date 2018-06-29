@@ -28,5 +28,6 @@ Aynı klasöre koyarak test yapabilirsiniz.
 Dll dosyaları https://yadi.sk/d/EZhfYrwt3Ybks4
 
 Dataset dosyaları https://yadi.sk/d/RvTJRN_y3Ybnfh
+çalıştırmak için ilgili dosyaları programın olduğu klasöre koyduktan sonra,runScript ile çalıştırabilirsiniz.
 
 ![alt text](https://github.com/mdAhmetKemal/AkaCudnNet/blob/master/setup.jpg) 
