@@ -1,1 +1,1 @@
-AkaCudnNet.exe resnet18Example.ini
+AkaCudnNet.exe prototxtFile.ini
